@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: demo-app
-        image: shettyp/demo-app:v20250105121337
+        image: shettyp/demo-app:v20250205044739
         ports:
         - containerPort: 5000
